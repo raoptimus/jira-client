@@ -34,7 +34,7 @@ right in PHP code.
 ## Install
 
 ```bash
-composer require badoo/jira-client
+composer require raoptimus/jira-client
 ```
 
 ## Initialize the client
